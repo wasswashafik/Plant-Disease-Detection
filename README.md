@@ -1,6 +1,8 @@
 # Offical Responsitoy 
 This is the code of paper "Using Transfer Learning with Convolutional Neural Networks for Plant Disease Classification and Detection" published in Frontiers in Plant Science. 
 
+# The codes will be made available after publication.
+
 # Dataset Accessibility 
 The used dataset during the experiments can be accessed at: https://www.kaggle.com/datasets/emmarex/plantdisease/  
 
