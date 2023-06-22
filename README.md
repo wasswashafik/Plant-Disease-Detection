@@ -23,7 +23,7 @@ Matlab Deep Learning tool
 
 
 # Contact
-If you have any other questions, you can send it to my email (wasswashafik@dcrlab.org). We will get back to you as soon as possible!
+If you have any other questions, you can send it to my email (wasswashafik@ieee.org). We will get back to you as soon as possible!
 
 
 # Citation
