@@ -1,7 +1,7 @@
 # Offical Responsitoy 
-This is the code of paper "Using Transfer Learning with Convolutional Neural Networks for Plant Disease Classification and Detection" published in Frontiers in Plant Science. 
+This is the code of paper "Using Imaged-Assisted Convolutional Neural Networks on Plant Disease Classification and Detection for Ecological Protection" published in IEEE Transactions on Image Processing. 
 
-# The codes will be made available after publication.
+# The codes will be made available after acceptance.
 
 # Dataset Accessibility 
 The used dataset during the experiments can be accessed at: https://www.kaggle.com/datasets/emmarex/plantdisease/  
