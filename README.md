@@ -1,5 +1,5 @@
-# Offical Responsitoy 
-This is the code of paper "Using Imaged-Assisted Convolutional Neural Networks on Plant Disease Classification and Detection for Ecological Protection" published in IEEE Transactions on Image Processing. 
+# Official Responsitoy 
+This is the code of the paper "Using Imaged-Assisted Convolutional Neural Networks on Plant Disease Classification and Detection for Ecological Protection," published in IEEE Transactions on Image Processing. 
 
 # The codes will be made available after acceptance.
 
