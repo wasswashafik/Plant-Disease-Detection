@@ -1,5 +1,5 @@
 # Official Responsitoy 
-This is the code of the paper "Using Imaged-Assisted Convolutional Neural Networks on Plant Disease Classification and Detection for Ecological Protection," published in IEEE Transactions on Image Processing. 
+This is the code of the paper "to be added," published in Agricultural Systems. 
 
 # The codes will be made available after acceptance.
 
@@ -23,7 +23,7 @@ Matlab Deep Learning tool
 
 
 # Contact
-If you have any other questions, you can send it to my email (wasswashafik@ieee.org). We will get back to you as soon as possible!
+If you have any other questions, you can send it to my email (wasswashafik [at] dcrlab [dot].org). We will get back to you as soon as possible!
 
 
 # Citation
